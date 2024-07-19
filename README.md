@@ -1,5 +1,10 @@
 # React + TypeScript + Vite
 
+This project implemented a shop of guitars, I used React with TypeScript, hooks like useMemo, useState, useEffect, and I created a personal Hook. To implemented the style in this project I used Tailwind.
+
+## Branch feature/guitar-ts-with-use-reducer
+In this branch I modified the use of personal Hook with useReducer 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
